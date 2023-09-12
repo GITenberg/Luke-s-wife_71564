@@ -1,0 +1,30 @@
+_repo: Luke-s-wife_71564
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Parsons, Francis M.
+    gutenberg_agent_id: '56283'
+    url: http://www.gutenberg.org/2009/agents/56283
+creator:
+  author:
+    agent_name: Garratt, Evelyn R.
+    alias: Garratt, Evelyn Rosalie
+    birthdate: 1854
+    gutenberg_agent_id: '56019'
+    url: http://www.gutenberg.org/2009/agents/56019
+description: ''
+gutenberg_issued: '2023-09-04'
+identifiers:
+  gutenberg: '71564'
+language: en
+pgterms:marc905: 20230829145103garratt
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+publication_note: '  $aIpswich :$bSmiths, Publishers, Suitall, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Luke's wife
+url: http://www.gutenberg.org/ebooks/71564
