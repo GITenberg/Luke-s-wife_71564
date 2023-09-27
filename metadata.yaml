@@ -5,6 +5,9 @@ contributor:
     agent_name: Parsons, Francis M.
     gutenberg_agent_id: '56283'
     url: http://www.gutenberg.org/2009/agents/56283
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Garratt, Evelyn R.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '56019'
     url: http://www.gutenberg.org/2009/agents/56019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71564#Luke-s-wife
 gutenberg_issued: '2023-09-04'
 identifiers:
   gutenberg: '71564'
